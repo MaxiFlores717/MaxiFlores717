@@ -37,6 +37,7 @@ Aquí algunos de mis proyectos destacados:
 ## 📊 GitHub Stats
 
 ![Maxi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxiFlores717&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiFlores717&layout=compact&theme=radical)
 
 ---
