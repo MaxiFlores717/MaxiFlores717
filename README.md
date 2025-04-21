@@ -2,46 +2,56 @@
 
 🎓 Estudiante de Analista Programador e Ingeniería Informática  
 💻 Apasionado por el desarrollo web, backend y la inteligencia artificial  
-🚀 Actualmente trabajando en un sistema de gestión odontológica y una app educativa con profesores animales 🦝🦉
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 Stack Tecnológico
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Estas son las tecnologías y herramientas que utilizo, con un fuerte enfoque en el desarrollo backend con Java y la creación de soluciones escalables:
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Maxi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxiFlores717&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiFlores717&layout=compact&theme=tokyonight)
+- ☕ **Java 17** – Lenguaje principal en mis desarrollos backend.
+- 🌿 **Spring Framework 6 & Spring Boot 3** – AOP, Spring Security con JWT, JPA, y APIs RESTful.
+- 🅰️ **Angular** – Angular 17, integración con APIs y Checkout Pro de Mercado Pago.
+- ⚛️ **React** – Interfaces modernas y componentes reutilizables.
+- 🐳 **Docker** – Contenerización y despliegue de aplicaciones.
+- ☁️ **AWS EC2** – Despliegue y gestión de servidores.
+- 💳 **Mercado Pago** – Integración de pagos, certificado por Mercado Libre.
+- 🐙 **Git & GitHub** – Control de versiones y colaboración.
+- 📋 **Trello & Jira** – Gestión ágil de proyectos.
+- 🧠 **Otros lenguajes:** C#, Python, JavaScript.
 
 ---
 
-## 🏆 Badges
+## 📁 Portfolio de Proyectos
 
-- 🌱 Aprendiendo actualmente: Inteligencia Artificial aplicada a la educación
-- 🧠 Interesado en: UX, DevOps, y desarrollo móvil
-- 📫 Cómo contactarme: maxi.tuemail@example.com
+Aquí algunos de mis proyectos destacados:
+
+| Proyecto | Descripción | Enlace |
+|---------|-------------|--------|
+| **Proyecto en GitHub** | Repositorio de proyecto desarrollado con HTML, CSS y JS | [🔗 Ver proyecto](https://github.com/MaxiFlores717/Proyecto) |
+| **TP Final - Servicio Web** | Proyecto con HTML, CSS, JS y servicios web | [🔗 Ver proyecto](https://github.com/MaxiFlores717/TP-Final--ServicioWeb_-AlancayFloresMonta-oSotoTorrejonWeigert.git) |
+| **Proyecto Angular** | Aplicación desarrollada con Angular | [🔗 Ver proyecto](https://github.com/MaxiFlores717/proyecto-angular.git) |
+
+---
+
+## 📊 GitHub Stats
+
+![Maxi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxiFlores717&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiFlores717&layout=compact&theme=radical)
 
 ---
 
-## 📌 Proyectos destacados
+## 📫 Contacto
 
-- [🎓 App educativa con profesores animales](https://github.com/**TU_USUARIO**/app-profesores-animales)
-- [🦷 Sistema de gestión odontológica](https://github.com/**TU_USUARIO**/sistema-odontologia)
-- [📊 Panel de control para alquileres](https://github.com/**TU_USUARIO**/panel-alquileres)
+- 📧 maxi.tucuman717@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maxi-flores717/)  
+- 🌐 [GitHub](https://github.com/MaxiFlores717)
 
 ---
+
 
 ## 💬 Frase favorita
 
 > “La programación no es solo código, es una forma de pensar.” – Chris Pine
+>
+✨ *¡Gracias por visitar mi perfil!*
