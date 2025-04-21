@@ -43,9 +43,8 @@ Aquí algunos de mis proyectos destacados:
 
 ## 📫 Contacto
 
-- 📧 maxi.tucuman717@gmail.com  
+- 📧 maxiflores717.@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maxi-flores717/)  
-- 🌐 [GitHub](https://github.com/MaxiFlores717)
 
 ---
 
